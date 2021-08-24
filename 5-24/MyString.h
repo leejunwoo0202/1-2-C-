@@ -1,5 +1,5 @@
 #ifndef MY_STRING_H_INCLUDED
-#define MY-STRING_H_INCLUDED
+#define MY_STRING_H_INCLUDED
 #include <iostream>
 
 class MyString {

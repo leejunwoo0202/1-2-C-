@@ -1,6 +1,8 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <cstring>
 #include "MyString.h"
+
 
 MyString::MyString(int s) :len(0), bufSize(s)
 {

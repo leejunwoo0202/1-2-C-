@@ -23,5 +23,8 @@
     <ClCompile Include="MyString.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MSMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

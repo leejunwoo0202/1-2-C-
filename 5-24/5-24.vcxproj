@@ -142,6 +142,7 @@
     <ClInclude Include="MyString.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="MSMain.cpp" />
     <ClCompile Include="MyString.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
